@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sampath Kumar</h1>
-<h3 align="center">A passionate DevOps and SRE Engineer from India</h3>
+<h1 align="**center">Glad to see you here!**</h1>
+<h3 align="center">A passionate DevOps and SRE Engineer from Bangalore India </h3>
+<h3 align="center">I am a Site Reliability Engineer and DevOps, where I design and implement scalable, secure, and efficient solutions for cloud and DevOps projects. 
+  My deep knowledge of AWS, Kubernetes, Docker, Ansible, Terraform, Shell, and Linux </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampathdevopssre&label=Profile%20views&color=0e75b6&style=flat" alt="sampathdevopssre" /> </p>
 
-<h3 align="left">Connect with me:sampath.devopssre@gmail.com mobileNo: 8951149211</h3>
+<h3 align="left">Connect with me :**sampath.devopssre@gmail.com** mobileNo: **8951149211**</h3>
 <p align="left">
 </p>
 
