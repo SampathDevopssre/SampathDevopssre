@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sampath Kumar</h1>
 <h1 align="**center">Glad to see you here!**</h1>
-<h3 align="center">A passionate DevOps and SRE Engineer from Bangalore India </h3>
+<h2 align="center">A passionate DevOps and SRE Engineer from Bangalore India </h2>
 <h3 align="center">I am a Site Reliability Engineer and DevOps, where I design and implement scalable, secure, and efficient solutions for cloud and DevOps projects. 
   My deep knowledge of AWS, Kubernetes, Docker, Ansible, Terraform, Shell, and Linux </h3>
 
