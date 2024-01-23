@@ -3,6 +3,31 @@
 <h3 align="center">I am a Site Reliability and DevOps Engineer, where I design and implement scalable, secure, 
   and efficient solutions for cloud and DevOps projects. </h3>
  My deep knowledge of AWS, Kubernetes, Docker, Jenkins, Ansible, Terraform, Shell, Linux and Monitoring.
+ 
+** Technical Skills:**
+
+- Cloud Services: Proficient in managing and deploying solutions across Google Cloud, AWS, DigitalOcean, and Pivotal Cloud Foundry.
+
+- Virtualization & Containers: Extensive experience with Kubernetes, Docker, and Docker-Compose, ensuring scalable and efficient deployments.
+
+- CI/CD Expertise: Hands-on with Jenkins, GitHub Actions, GitLab CI, SemaphoreCI, CloudBuild, and CodePipeline to automate and streamline software delivery processes.
+
+- Version Control Systems: Skilled in utilizing Git, GitHub, GitLab, and SVN for efficient code versioning and collaboration.
+
+- Infrastructure as Code: Proficient in managing infrastructure using Terraform and CloudFormation, ensuring consistency and scalability.
+
+- Serverless Architecture: Hands-on experience with AWS Lambda, optimizing serverless applications for performance and cost-efficiency.
+
+- Monitoring & Observability: Proficient in using Prometheus, Grafana, Cloudwatch, Stackdriver, Elasticsearch, and Datadog for comprehensive system monitoring and insights.
+
+- Operating Systems: Familiar with Ubuntu, CentOS, RHEL, and Debian, ensuring optimal performance and security for diverse environments.
+
+- Scripting Proficiency: Skilled in Bash and PowerShell scripting, automating tasks and ensuring system efficiency.
+
+- Web Servers: Experienced in configuring and managing Apache and Nginx web servers for optimal performance and security.
+
+- Databases: Proficient in managing MySQL and PostgreSQL databases, ensuring data integrity, performance, and security
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampathdevopssre&label=Profile%20views&color=0e75b6&style=flat" alt="sampathdevopssre" /> </p>
 
