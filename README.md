@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sampath Kumar</h1><h1 align="**center">Glad to see you here!**</h1>
-<h1 align="center">A passionate DevOps and SRE Engineer from Bangalore India </h1>
-<h3 align="center">I am a Site Reliability and DevOps Engineer, where I design and implement scalable, secure, 
+<h1 align="justify">I'm a passionate technology enthusiast with a strong foundation in operations with infrastructure administrator and a deep interest in DevOps practices. 
+I'm constantly exploring new technologies and love to solve complex problems with DevOps practices and cultural philosophies that  
+The primary goal of DevOps is to streamline the software delivery process, making it more efficient, reliable, and automated </h1>
+<h3 align="justify">I am a Site Reliability and DevOps Engineer, where I design and implement scalable, secure, 
   and efficient solutions for cloud and DevOps projects. </h3>
  My deep knowledge of AWS, Kubernetes, Docker, Jenkins, Ansible, Terraform, Shell, Linux and Monitoring.
  
